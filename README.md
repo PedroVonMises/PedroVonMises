@@ -1,6 +1,6 @@
 ## Olá, me chamo Pedro Augusto. Desenvolvedor Front-end e estudante de programação!
   - 💼 Hoje trabalho com front-end
-  - 🌱 Estudando ABAP no momento
+  - 🌱 Estudando SAP ABAP no momento
   - 😊 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/PedroVonMises">
