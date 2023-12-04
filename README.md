@@ -1,6 +1,6 @@
 ## Olá, me chamo Pedro Augusto. Desenvolvedor Front-end e estudante de programação!
   - 💼 Hoje trabalho com HTML, CSS e JavaScript
-  - 🌱 Estudando Python no momento
+  - 🌱 Estudando R e SQL no momento
   - 😊 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/PedroVonMises">
