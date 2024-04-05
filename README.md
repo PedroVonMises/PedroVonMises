@@ -12,7 +12,6 @@
   <img align="center" alt="PedroVon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PedroVon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PedroVon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="PedroVon-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/762161790398103624/956991251612311614/discordavatar-pedrov.png">
 </div>
   
   ##
